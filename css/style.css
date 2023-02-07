@@ -826,3 +826,7 @@ div .navigation {
 .portfolio-v2-item video {
     width: 100%;
 }
+
+.portfolio-v2-item img {
+    width: 100%;
+}
