@@ -822,3 +822,7 @@ div .navigation {
     text-align : center;
     top        : 65%;
     }
+
+.portfolio-v2-item video {
+    width: 100%;
+}
